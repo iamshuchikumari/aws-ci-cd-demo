@@ -1,4 +1,4 @@
-name: aws-ci-cd-demo
+name: aws-ci-cd
 
 on: push
 
